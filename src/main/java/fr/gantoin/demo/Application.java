@@ -1,3 +1,5 @@
+package fr.gantoin.demo;
+
 import org.apache.avro.Schema;
 import org.apache.avro.SchemaBuilder;
 
